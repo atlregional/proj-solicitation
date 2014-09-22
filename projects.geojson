@@ -1,12 +1,10 @@
-
 {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "id": "lr-j123",
-        "volume": 1200
+        "id": "lr-j123"
       },
       "geometry": {
         "type": "LineString",
