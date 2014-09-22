@@ -168,6 +168,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "coa-point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36727523803711,
+          33.787137188882724
+        ]
+      }
     }
   ]
 }
