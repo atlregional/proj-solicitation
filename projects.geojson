@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "lr-j123"
+        "id": "lr-j123"
       },
       "geometry": {
         "type": "LineString",
@@ -23,7 +23,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "lr-124"
+        "id": "lr-124"
       },
       "geometry": {
         "type": "LineString",
@@ -50,7 +50,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "lr-235"
+        "id": "lr-235"
       },
       "geometry": {
         "type": "LineString",
@@ -93,7 +93,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "lr-point"
+        "id": "lr-point"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "lr-point"
+        "id": "lr-point"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "lr-point"
+        "id": "lr-point"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "new-test"
+        "id": "new-test"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "coa-test"
+        "id": "coa-test"
       },
       "geometry": {
         "type": "LineString",
@@ -172,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "coa-point"
+        "id": "coa-point"
       },
       "geometry": {
         "type": "Point",
@@ -185,7 +185,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "fc-1234"
+        "id": "fc-1234"
       },
       "geometry": {
         "type": "LineString",
@@ -212,7 +212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "fc-123"
+        "id": "fc-123"
       },
       "geometry": {
         "type": "LineString",
@@ -239,7 +239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "fc-122"
+        "id": "fc-122"
       },
       "geometry": {
         "type": "LineString",
@@ -262,7 +262,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "fc-121"
+        "id": "fc-121"
       },
       "geometry": {
         "type": "LineString",
@@ -293,7 +293,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "fc-111"
+        "id": "fc-111"
       },
       "geometry": {
         "type": "LineString",
@@ -316,7 +316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "fc-11"
+        "id": "fc-11"
       },
       "geometry": {
         "type": "LineString",
@@ -343,7 +343,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "fc-1"
+        "id": "fc-1"
       },
       "geometry": {
         "type": "LineString",
@@ -382,7 +382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "MK-1"
+        "id": "MK-1"
       },
       "geometry": {
         "type": "LineString",
@@ -401,7 +401,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "Study-1"
+        "id": "Study-1"
       },
       "geometry": {
         "type": "Polygon",
@@ -438,7 +438,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "MK-02"
+        "id": "MK-02"
       },
       "geometry": {
         "type": "LineString",
@@ -465,7 +465,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "AT-01"
+        "id": "AT-01"
       },
       "geometry": {
         "type": "LineString",
@@ -484,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "GW-02": "BA-01"
+        "id": "BA-01"
       },
       "geometry": {
         "type": "LineString",
@@ -566,7 +566,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "GW-02"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
