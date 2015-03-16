@@ -713,6 +713,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GW-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.94702136516571,
+          34.06328344091037
+        ]
+      }
     }
   ]
 }
