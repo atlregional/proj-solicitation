@@ -826,6 +826,19 @@
           33.73229893850277
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Boulevard-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53189849853514,
+          33.764628137946396
+        ]
+      }
     }
   ]
 }
