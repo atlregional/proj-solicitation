@@ -816,7 +816,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "Boulevard-01"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
