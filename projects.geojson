@@ -1293,21 +1293,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-05": "",
-        "id": "GW-07"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.19003486633301,
-          34.018020452464164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "JOH-06": ""
+        "JOH-06": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1346,7 +1333,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-07": ""
+        "JOH-07": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1413,7 +1401,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-08": ""
+        "JOH-08": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1452,7 +1441,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-09": "section 1"
+        "JOH-09": "section 1",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1539,7 +1529,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-09": "section 2"
+        "JOH-09": "section 2",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1582,7 +1573,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-09": "section 3"
+        "JOH-09": "section 3",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1600,12 +1592,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "GW-07"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.22235012054443,
-          33.93223800206774
+          -84.22234207391739,
+          33.93224912918875
         ]
       }
     }
