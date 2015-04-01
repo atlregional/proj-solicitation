@@ -382,7 +382,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "MK-1"
+        "id": "MK-1",
+        "JOH-01": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1012,7 +1013,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-01": "section 1"
+        "JOH-01": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1051,7 +1053,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-01": "section 2"
+        "JOH-01": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1126,7 +1129,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-01": "section 3"
+        "JOH-01": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1145,7 +1149,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-02": ""
+        "JOH-02": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1188,7 +1193,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-03": ""
+        "JOH-03": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1231,7 +1237,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-04": ""
+        "JOH-04": "",
+        "id": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1286,7 +1293,8 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-05": ""
+        "JOH-05": "",
+        "id": "GW-07"
       },
       "geometry": {
         "type": "Point",
@@ -1587,6 +1595,17 @@
             -84.22591209411621,
             34.02669930426374
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22235012054443,
+          33.93223800206774
         ]
       }
     }
