@@ -382,8 +382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "MK-1",
-        "JOH-01": ""
+        "id": "MK-1"
       },
       "geometry": {
         "type": "LineString",
@@ -1013,8 +1012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-01": "",
-        "id": ""
+        "id": "JOH-01"
       },
       "geometry": {
         "type": "LineString",
@@ -1053,8 +1051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-01": "",
-        "id": ""
+        "id": "JOH-01"
       },
       "geometry": {
         "type": "LineString",
@@ -1129,8 +1126,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-01": "",
-        "id": ""
+        "id": "JOH-01"
       },
       "geometry": {
         "type": "LineString",
@@ -1149,8 +1145,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-02": "",
-        "id": ""
+        "id": "JOH-02"
       },
       "geometry": {
         "type": "LineString",
@@ -1193,8 +1188,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-03": "",
-        "id": ""
+        "id": "JOH-03"
       },
       "geometry": {
         "type": "LineString",
@@ -1237,8 +1231,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-04": "",
-        "id": ""
+        "id": "JOH-04"
       },
       "geometry": {
         "type": "LineString",
@@ -1293,8 +1286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-06": "",
-        "id": ""
+        "id": "JOH-06"
       },
       "geometry": {
         "type": "LineString",
@@ -1333,8 +1325,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-07": "",
-        "id": ""
+        "id": "JOH-07"
       },
       "geometry": {
         "type": "LineString",
@@ -1401,8 +1392,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-08": "",
-        "id": ""
+        "id": "JOH-08"
       },
       "geometry": {
         "type": "LineString",
@@ -1441,8 +1431,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-09": "section 1",
-        "id": ""
+        "id": "JOH-09"
       },
       "geometry": {
         "type": "LineString",
@@ -1529,8 +1518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-09": "section 2",
-        "id": ""
+        "id": "JOH-09"
       },
       "geometry": {
         "type": "LineString",
@@ -1573,8 +1561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "JOH-09": "section 3",
-        "id": ""
+        "id": "JOH-09"
       },
       "geometry": {
         "type": "LineString",
@@ -2117,7 +2104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "do-01": "",
         "id": "do-01"
       },
       "geometry": {
@@ -2530,7 +2516,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2643,7 +2631,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
