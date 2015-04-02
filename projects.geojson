@@ -2100,6 +2100,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DK-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32315826416016,
+          33.797872386151724
+        ]
+      }
     }
   ]
 }
