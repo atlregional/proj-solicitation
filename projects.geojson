@@ -2593,7 +2593,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "FT-306B"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
