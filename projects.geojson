@@ -2117,7 +2117,8 @@
     {
       "type": "Feature",
       "properties": {
-        "do-01": ""
+        "do-01": "",
+        "id": "do-01"
       },
       "geometry": {
         "type": "Polygon",
