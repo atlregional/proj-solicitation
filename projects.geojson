@@ -4305,6 +4305,45 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FS-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6529197692871,
+          33.6585492397023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FS-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.64380025863647,
+          33.66706823220566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FS-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6147894859314,
+          33.63782867327341
+        ]
+      }
     }
   ]
 }
