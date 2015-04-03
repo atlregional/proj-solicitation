@@ -4237,6 +4237,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FS-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54769134521483,
+          33.66928267491386
+        ]
+      }
     }
   ]
 }
