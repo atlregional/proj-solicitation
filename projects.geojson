@@ -4140,6 +4140,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CW-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7506594657898,
+          33.39690898863878
+        ]
+      }
     }
   ]
 }
