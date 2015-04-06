@@ -6944,6 +6944,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brown Bridge Corridor Study": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.91752243041992,
+          33.58373523046865
+        ]
+      }
     }
   ]
 }
