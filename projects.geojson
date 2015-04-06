@@ -8690,7 +8690,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "HOL-01 Proposed Study Area"
+        "Name": "HOL-01 Proposed Study Area",
+        "id": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -8774,7 +8775,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "DOR-01"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
