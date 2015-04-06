@@ -8788,6 +8788,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MID-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3864369392395,
+          33.781055690922436
+        ]
+      }
     }
   ]
 }
