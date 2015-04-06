@@ -8904,6 +8904,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ADID-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39087867736816,
+          33.754049338777996
+        ]
+      }
     }
   ]
 }
