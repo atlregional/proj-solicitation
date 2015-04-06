@@ -7660,6 +7660,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MIL-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31445717811584,
+          34.11485132995114
+        ]
+      }
     }
   ]
 }
