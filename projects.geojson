@@ -8618,7 +8618,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Possible Connector"
+        "Name": "Possible Connector",
+        "id": "DOR-01"
       },
       "geometry": {
         "type": "LineString",
@@ -8767,6 +8768,23 @@
               -84.50363874435425,
               34.17902125240104
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.28024291992188,
+            33.9019000671002
+          ],
+          [
+            -84.27774310112,
+            33.90002111939908
           ]
         ]
       }
