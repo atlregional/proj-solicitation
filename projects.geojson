@@ -382,7 +382,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BeltLine-02"
+        "id": "BeltLine-02",
+        "Proposed relocated signal": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4719,7 +4720,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "AVO-01"
+        "id": "AVO-01",
+        "Proposed relocated signal": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5410,7 +5412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "CO-04"
+        "id": "CO-03"
       },
       "geometry": {
         "type": "LineString",
