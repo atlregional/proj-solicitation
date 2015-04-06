@@ -6948,13 +6948,56 @@
     {
       "type": "Feature",
       "properties": {
-        "Brown Bridge Corridor Study": ""
+        "Brown Bridge Corridor Study": "",
+        "id": "NE-03"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -83.91752243041992,
           33.58373523046865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.99017810821533,
+            33.56829799216409
+          ],
+          [
+            -83.98903012275696,
+            33.5688254245447
+          ],
+          [
+            -83.98812890052794,
+            33.569147246109395
+          ],
+          [
+            -83.98706674575806,
+            33.569379672049
+          ],
+          [
+            -83.98620843887329,
+            33.56949588478414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brown Bridge Road at Snapping Shoals Creek Bridge Replacement": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98821473121643,
+          33.569111488217
         ]
       }
     }
