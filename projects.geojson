@@ -8619,7 +8619,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Possible Connector",
-        "id": "DOR-01"
+        "id": "HOL-01",
+        "Proposed relocated signal": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8691,7 +8692,7 @@
       "type": "Feature",
       "properties": {
         "Name": "HOL-01 Proposed Study Area",
-        "id": ""
+        "id": "HOL-01"
       },
       "geometry": {
         "type": "Polygon",
